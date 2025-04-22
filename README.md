@@ -2,14 +2,14 @@
 
 HelthNexus is a showcase project designed to demonstrate code examples for a data solution aimed at creating valuable insights for the pharmaceutical industry based on healthcare system information.
 
-⚠️ **This project is for demonstration purposes only. The code is not prepared for production use, and the `crawler_manager` module has been significantly cleaned and simplified compared to its production version.**
+⚠️ **This project is for demonstration purposes only. The code is not prepared for production use, and the `crawler_manager` module has been significantly cleaned and simplified in the production version.**
 
 ---
 
 ## Features
 
 - **Data Value Creation**: Demonstrates how healthcare system data can be transformed into actionable insights for the pharmaceutical sector.
-- **Code Examples**: Provides sample Python scripts for key components of the data solution.
+- **Code Examples**: Provides sample Python code for components on the data solution.
 - **Showcase**: Serves as a demonstration of the logic behind a data pipeline solution.
 
 ---
